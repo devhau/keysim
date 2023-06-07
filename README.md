@@ -1,6 +1,6 @@
 # KeySim
 
-https://keyboardsimulator.xyz/
+[https://banphimco.click/](https://banphimco.click/)
 
 design and test virtual 3d keyboards.
 
